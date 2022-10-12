@@ -1,6 +1,6 @@
 # Smart Contract Local Development
 
-[Test Chaine](https://alchemy.com/?r=72b83a6d8bd16fda)
+[Test Chain](https://alchemy.com/?r=72b83a6d8bd16fda)
 
 Getting started.
 add your own `.env` file
